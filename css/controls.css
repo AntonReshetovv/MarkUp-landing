@@ -1,0 +1,31 @@
+.btn-outline-link-orange {
+  padding: 13px 25px;
+  border: 1px solid #f7941e;
+  border-radius: 5px;
+  text-transform: uppercase;
+  color: #f7941e;
+}
+
+.btn-link-orange {
+  padding: 13px 25px;
+  border-radius: 5px;
+  text-transform: uppercase;
+  color: #ffffff;
+  background-color: #f7941e;
+}
+
+.btn-link-dark {
+  padding: 13px 25px;
+  border-radius: 5px;
+  text-transform: uppercase;
+  color: #ffffff;
+  background-color: #231f20;
+}
+
+.btn-outline-link-dark {
+  padding: 13px 25px;
+  border-radius: 5px;
+  border: 1px solid #000000;
+  text-transform: uppercase;
+  color: #000;
+}

@@ -1,0 +1,27 @@
+@import "./variables/colors";
+
+.btn {
+  padding: 13px 25px;
+  border-radius: 5px;
+  text-transform: uppercase;
+}
+
+.btn-outline-link-orange {
+  border: 1px solid $color-orange;
+  color: $color-orange;
+}
+
+.btn-link-orange {
+  color: $color-white;
+  background-color: $color-orange;
+}
+
+.btn-link-dark {
+  color: $color-white;
+  background-color: $color-black-light;
+}
+
+.btn-outline-link-dark {
+  border: 1px solid $color-black-default;
+  color: $color-black-default;
+}
